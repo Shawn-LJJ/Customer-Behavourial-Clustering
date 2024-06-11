@@ -1,0 +1,3 @@
+# Customer Behavioural Clustering
+
+This project is part of my submission for the Artificial Intelligence & Machine Learning CA2 assignment from Singapore Polytechnic AY23/24. In this particular project, I am given a dataset of the customer dataset consisting of the customer's personal detail which allows me to analyse and figure out how I can identify clusters of customer's behaviour and understanding each of them. The dataset provided for this project came from an anonymous source.
